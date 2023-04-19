@@ -8,3 +8,5 @@ Author: George
 License: FATORA
 */
 
+include('src/add_custom_statuses.php');
+include('src/add_gateway.php');
